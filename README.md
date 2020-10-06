@@ -1,4 +1,4 @@
-# Twitter-Emotion-Detection
+# Tweet-Emotion-Detection
 
 You can find the deployed application at : https://tweet-emotion-detection.herokuapp.com/
 
