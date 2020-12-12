@@ -15,3 +15,9 @@ You can find the deployed application at : https://tweet-emotion-detection.herok
 the lexicons used in this project are created by the National Research Council Canada.**
 
 http://sentiment.nrc.ca/lexicons-for-research/NRC-Emotion-Lexicon.zip
+
+
+**Future plans :**
+
+- [ ] Transform the code from jupyter into a package
+- [ ] Train on a bigger dataset
