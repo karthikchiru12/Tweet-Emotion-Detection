@@ -2,6 +2,8 @@
 
 You can find the deployed application at : https://tweet-emotion-detection.herokuapp.com/
 
+Code for the heroku app : https://github.com/karthikchiru12/Tweet-emotion-detection-heroku-app
+
 **About :**
 
 
